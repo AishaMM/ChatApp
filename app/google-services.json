@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "566922116161",
+    "firebase_url": "https://chatapp-b3172.firebaseio.com",
+    "project_id": "chatapp-b3172",
+    "storage_bucket": "chatapp-b3172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566922116161:android:0e2dcff557d06bfb",
+        "android_client_info": {
+          "package_name": "com.example.yellcabltd.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566922116161-f345kf2pklej60vi10oui5bg1oaci3l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yellcabltd.chatapp",
+            "certificate_hash": "04cd6bf0498299eea5021f633f38ee3001fac64e"
+          }
+        },
+        {
+          "client_id": "566922116161-0boagkpnc73qku502udll67h93n9m01r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4J9YyOxDQ_7ziq5ejENoIuP2J0bfIWwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566922116161-0boagkpnc73qku502udll67h93n9m01r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
